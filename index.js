@@ -23,7 +23,7 @@ app.get('/jokes' ,(req,res)=>{
   const jokes=[
     {id:1,
     title:'a joke',
-    content: 'This is a joke'},
+    content: 'This is a  a joke'},
 
     {id:2,
     title:'a joke',
